@@ -22,6 +22,9 @@ This project contains the functionalities.
   Clone the repository and use "flutter run" command.
 
 
+[![Watch the video]([https://i.sstatic.net/Vp2cE.png](https://drive.google.com/file/d/1X-65WR2E4B6_jV8A7UEZrX9utYl1WIoS/view?usp=sharing))]([https://youtu.be/vt5fpE0bzSY](https://drive.google.com/file/d/1X-65WR2E4B6_jV8A7UEZrX9utYl1WIoS/view?usp=sharing))
+
+
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
