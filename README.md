@@ -18,6 +18,10 @@ This project contains the functionalities.
   * Clean architecture to maintain the the accurate directory structure.
   
 
+## How to run 
+  Clone the repository and use "flutter run" command.
+
+
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
