@@ -1,15 +1,23 @@
-# teq_mavens
+# Search Place and Draw Polygon
 
-A new Flutter project.
+Test for TeQ Mavens.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project contains the functionalities.
+  1. Google Map
+  2. Search Google places
+  3. Zoom in and out on google map
+  4. Drop pins on map by clicking on map itself
+  5. Convert these multiple pins to polygon
+  6. Reset Map
 
-A few resources to get you started if this is your first Flutter project:
+## Architecture
+  * In this app we are using GetX as State Management and Dependency Injection library.
+  * We are using MVC patteren here to handle overall logic of the app.
+  * Clean architecture to maintain the the accurate directory structure.
+  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
